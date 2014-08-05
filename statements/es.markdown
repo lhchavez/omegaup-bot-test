@@ -20,4 +20,6 @@ La suma de ambos números.
 10
 ||output
 15
+||description
+5 + 10 = 15
 ||end
